@@ -13,7 +13,7 @@
 <body>
     <style>
         body {
-            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPrwgPmM-Vuip6lIVKIvwbkIu4uElt2tPm1Q&s);
+            background-image: url(https://img.freepik.com/free-vector/white-background-with-white-background-blue-background-with-white-lines_483537-4180.jpg?semt=ais_hybrid&w=740&q=80);
         }
     </style>
   <div id="signinorcreateanaccount">
