@@ -10,8 +10,9 @@
 <form onsubmit="countSubmission()">
     <input type="text" placeholder="Username" required><br><br>
     <input type="password" placeholder="Password" required><br><br>
-    <button type="submit">Login</button>
-</form>
+     <button onclick="countSubmission(); alert('This is a simulation and was created for educational purposes only.')">sign in</button>
+            
+    </form>
 
 <p>Total Submissions: <span id="count">0</span></p>
 
